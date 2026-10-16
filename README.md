@@ -1,5 +1,7 @@
 # 你好，我是 ThinkPair 👋
 
+<img src="assets/thinkpair-avatar-pixel-v5-512.png" width="96" height="96" align="right" alt="ThinkPair 像素人物头像" />
+
 以前做过一线销售，也负责过门店、区域经营和组织人力工作。现在在做「降噪实验室」，也在用 AI 做产品、整理知识。
 
 我关心一门生意怎么运转，也关心一个人怎样把自己的经验和本事，做成别人真正用得上的东西。这也是我做内容和尝试新产品时，常常会想的问题。
